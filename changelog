@@ -1,0 +1,10 @@
+26.3.4
+
+Написал sip parser
+
+26.3.5
+
+написал sip serialize
+добавил структуру URI
+заменил в message uri string на uri *URI
+покрыл parser.go, serialize.go, uri.go тестами
